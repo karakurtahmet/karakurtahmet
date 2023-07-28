@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @karakurtahmet
+- 👀 I’m interested in .NET & Amgular
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to Backend Developer Technologies
+- 📫 How to reach me linkedin.com/in/ahmetkarakurt
